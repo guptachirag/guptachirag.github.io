@@ -263,7 +263,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background-color: #339966;
+    background-color: rgba(217, 221, 111, 0.6);
     -webkit-background-size: cover; 
     -moz-background-size: cover;
     background-size: cover;
@@ -354,7 +354,7 @@ a:focus {
 ::selection {
     text-shadow: none;
     background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: rgba(98,255,255,.2);
 }
 
 img::selection {
